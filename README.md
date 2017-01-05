@@ -1,7 +1,7 @@
 # WPILIB-Files
 External librarys needed for FRC robot code development (Steps are writen for Mac but should be almost identical on Windows)
 
-1) Copy these files to the folder ~/USER/wpilib/java/current/lib 
+1) Copy all files to the folder ~/USER/wpilib/java/current/lib 
 
 2) In Eclipse, navigate to Project/Properties/Java Build Path
 
