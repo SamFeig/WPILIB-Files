@@ -11,4 +11,10 @@ External librarys needed for FRC robot code development (Steps are writen for Ma
 
 5) Select the files you copied in step 1
 
-6) Done, you should be set to start coding :)
+6) Select "Order and Export" from the selection bar at the top
+
+7) Select all the files you added in step 1
+
+8) Click "Apply" in the bottom right
+
+9) Done, you should be set to start coding :)
